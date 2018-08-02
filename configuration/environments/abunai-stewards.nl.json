@@ -1,0 +1,15 @@
+{
+    "name": "Steward Portal",
+    "short_name": "Stewards",
+    "titles": {
+        "Volunteer": "Steward",
+        "Senior": "Senior Steward",
+        "Staff": "Manager"
+    },
+    "hostname": "abunai-stewards.nl",
+    "hidden_events_public": false,
+    "team_data": "stewards.json",
+    "team_program": "program_stewards.json",
+    "team_shifts": "shifts_stewards.json",
+    "year": 2018
+}
