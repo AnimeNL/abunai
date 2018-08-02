@@ -1,0 +1,15 @@
+images/photos/
+node_modules/
+scripts/main-compiled.js
+vendor/
+Thumbs.db
+VERSION
+anime.css
+anime.js
+composer.lock
+content.json
+npm-debug.log
+sftp-config.json
+*.psd
+anime/notifications.log
+package-lock.json
