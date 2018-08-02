@@ -122,11 +122,6 @@ ContentHandler.prototype.UpdateElement =
           }
         }
         break;
-      case 'notifications-toggle':
-        value = this.application_.GetUser().getOption('notifications', false)
-                    ? 'Disable notifications'
-                    : 'Enable notifications';
-        break;
       case 'time':
         value = DateUtils.format(DateUtils.getTime(), DateUtils.FORMAT_ISO_8601);
         break;
