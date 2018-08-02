@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/AnimeNL/anime-2017.svg?branch=master)](https://travis-ci.org/AnimeNL/anime-2017)
 [![NPM Dependencies](https://david-dm.org/AnimeNL/anime-2017.svg)](https://david-dm.org/AnimeNL/anime-2017/)
 
-Anime 2018 Volunteer Portal
+Abunai Volunteer Portal
 ===
 This repository contains the code powering the Anime 2018 volunteer portals. It contains a limited
 amount of backend logic for importing and normalizing data from external parties, as well as the
